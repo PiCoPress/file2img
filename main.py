@@ -1,7 +1,7 @@
-import file2img
+import fimpy
 
 # Test case 1: Convert a text file to an image
-file2img.file_to_image("file2img.py", "output.png")
+fimpy.file_to_image("file2img.py", "output.png")
 
 # Test case 2: Convert a PDF file to an image
 # file2img.convert_file_to_image("input.pdf", "output.png")
