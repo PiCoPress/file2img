@@ -1,4 +1,4 @@
-# FIMPY - Visualize any file
+# FIMMPY - Visualize any file
 ## Dependencies
 1. PIL
 2. numpy
