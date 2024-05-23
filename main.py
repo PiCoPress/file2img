@@ -1,3 +1,3 @@
-import fimpy
+import fimmpy
 
-fimpy.visualize("./Hello-C-World-main.zip", "output.png", 3)
+fimmpy.visualize("./Hello-C-World-main.zip", "output.png", 3)
